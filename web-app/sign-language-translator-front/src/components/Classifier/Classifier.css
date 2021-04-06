@@ -1,0 +1,18 @@
+.back {
+    background: #F5F5F5;
+    border: 3px dashed #E8E8E8;
+    border-radius: 5px;
+    width: 100%;
+    margin: 15px 0;
+    padding: 80px 5px;
+    outline: none;
+    cursor: pointer;
+}
+
+.back:hover{
+    border: 3px dashed #A9A9A9;
+}
+
+.dropbox_text{
+    color: #7e7b7b;
+}
